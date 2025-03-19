@@ -4,12 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="9783e2da-62e1-45e4-bd10-c3c120b8f972" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/first_task(Home)/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/first_task(Home)/styles.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/second_task(deep copy)/deepcopy.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/third_task/index.js" afterDir="false" />
-    </list>
+    <list default="true" id="9783e2da-62e1-45e4-bd10-c3c120b8f972" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -44,7 +39,7 @@
     "Node.js.index.js.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.git.unshallow": "true",
-    "git-widget-placeholder": "master",
+    "git-widget-placeholder": "main",
     "list.type.of.created.stylesheet": "CSS",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
@@ -74,11 +69,15 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1742363860988</updated>
-      <workItem from="1742363862028" duration="18422000" />
+      <workItem from="1742363862028" duration="18781000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Тестовые задания на ШП в esoft" />
+    <option name="LAST_COMMIT_MESSAGE" value="" />
   </component>
 </project>
